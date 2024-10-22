@@ -1,4 +1,4 @@
-# E-shop with MF
+<!-- # E-shop with MF
 
 This project is a simple e-commerce platform built using the micro frontend architecture with Webpack Module Federation. The goal of this project is to demonstrate how to build an application using multiple micro frontends. Includes state management, TypeScript, and more..
 
@@ -21,7 +21,7 @@ The applications are as follows:
 - **Home**: This is the application responsible for displaying the home page of the e-commerce platform. Built with Vue.js, runs by default at `http://localhost:3004` and at `http://localhost:4004` when in production mode.
 - Shared: This is the package where all shared code lives. Available via the monorepo setup.
 
-![Architecture Overview](assets/architecture-overview.png)
+![Architecture Overview](assets/architecture-overview.png) -->
 
 The micro frontend architecture used in this project allows for the seamless integration of each application into the platform. With Webpack Module Federation, each application can be developed and deployed independently, making the development process more efficient.
 
@@ -38,7 +38,7 @@ To get started with the project, follow these steps:
 5. To build the files for production, run `npm run build`
 6. To serve the production build, run `npm run start`
 
-## Deployment
+<!-- ## Deployment
 
 This application is for demo purposes only, but here is how the application could be deployed to production if it was production ready:
 
@@ -58,4 +58,4 @@ If you would like to contribute to the project, please follow these steps:
 
 ## License
 
-[MIT](LICENSE)
+[MIT](LICENSE) -->
